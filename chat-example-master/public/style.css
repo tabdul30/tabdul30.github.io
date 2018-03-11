@@ -1,0 +1,54 @@
+body{
+	background: grey;
+}	
+
+#tariq{
+	text-align:center;
+
+}
+
+
+#userOnline{
+	position: absolute;
+	right:30%;
+	top:9.5%;
+
+}
+.online{
+	position: absolute;
+	top:18%;
+	right:30%;
+	background: white;
+}
+
+
+.chat{
+	background-color: #F5F5F5;
+    float: left;
+    height: 300px;
+	
+    width: 50%;
+	overflow-y: auto;
+
+}
+#messages{
+	background: lightgrey;
+	margin: 5px;
+
+}
+
+#m{	
+	
+	position:absolute;
+	left:0.5%;
+	top: 66%;
+	width:40%;
+}
+
+#send{
+	position:absolute;	
+	left:41%;
+	top: 66%;
+	width:9%;
+	
+}
